@@ -22,10 +22,10 @@ Before installation it is strictly recommended to upgrade your system to the lat
 
 Use curl or wget to download the script:
 ```bash
-curl -O https://raw.githubusercontent.com/potap1978/amneziawg-install/main/amneziawg-install.sh
+curl -O https://raw.githubusercontent.com/potap1978/amneziawg-install_3.1/main/amneziawg-install.sh
 ```
 ```bash
-wget https://raw.githubusercontent.com/potap1978/amneziawg-install/main/amneziawg-install.sh
+wget https://raw.githubusercontent.com/potap1978/amneziawg-install_3.1/main/amneziawg-install.sh
 ```
 
 Set permissions:
